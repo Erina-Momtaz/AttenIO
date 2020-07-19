@@ -72,6 +72,7 @@ public class LoginActivity extends AppCompatActivity {
                 else
                 {
                     String user_name = username.getText().toString();
+
                     String pass_word = password.getText().toString();
 
                     if (TextUtils.isEmpty(user_name))
