@@ -37,6 +37,7 @@ public class AddStudentActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_student);
 
+        
         spinnerbranch=(Spinner)findViewById(R.id.spinnerdept);
         spinneryear=(Spinner)findViewById(R.id.spinneryear);
         textFirstName=(EditText)findViewById(R.id.editTextFirstName);
