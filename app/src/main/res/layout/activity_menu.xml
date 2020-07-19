@@ -24,6 +24,7 @@
             android:layout_width="160dp"
             android:layout_height="190dp"
             android:layout_margin="10dp">
+
             <LinearLayout
                 android:id="@+id/buttonViewstudent"
                 android:layout_width="match_parent"

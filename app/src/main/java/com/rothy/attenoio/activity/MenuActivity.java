@@ -94,7 +94,7 @@ public class MenuActivity extends AppCompatActivity {
 //                DBAdapter dbAdapter = new DBAdapter(MenuActivity.this);
 //                ArrayList<AttendanceBean> attendanceBeanList=dbAdapter.getAllAttendanceByStudent();
 //                ((ApplicationContext)MenuActivity.this.getApplicationContext()).setAttendanceBeanList(attendanceBeanList);
-
+         //Valo lagey na kono kichu
 
             }
         });
