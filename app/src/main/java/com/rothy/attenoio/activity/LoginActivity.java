@@ -75,6 +75,7 @@ public class LoginActivity extends AppCompatActivity {
 
                     String pass_word = password.getText().toString();
 
+
                     if (TextUtils.isEmpty(user_name))
                     {
                         username.setError("Invalid User Name");
